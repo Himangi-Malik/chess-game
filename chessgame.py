@@ -1,10 +1,5 @@
 # jai shree ram elo onju and mintu are the best thanks
-# saare functions ki seperate file mein passed variables and poora context likhna
-#range function increments itself by 1 by default in each iteration
-#lists use square brackets []
-#understand the working of i better in for i in range len(moves) type scenarios
-#4 data types list tuple dictionary set go through
-#line 383 display text function is weird
+
 
 import pygame
 
